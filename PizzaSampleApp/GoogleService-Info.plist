@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>489755121801-mgveff5f5649h15me7p6l0j8ab22n7ct.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.489755121801-mgveff5f5649h15me7p6l0j8ab22n7ct</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpkNP_kDg4GIb7C9PvC5PS58a8GfxOs0c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>489755121801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>testingios2019june.PizzaSampleApp</string>
+	<key>PROJECT_ID</key>
+	<string>pizza-sample-1ba73</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pizza-sample-1ba73.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:489755121801:ios:9ba389abb7322252bd4e58</string>
+	<key>DATABASE_URL</key>
+	<string>https://pizza-sample-1ba73.firebaseio.com</string>
+</dict>
+</plist>
